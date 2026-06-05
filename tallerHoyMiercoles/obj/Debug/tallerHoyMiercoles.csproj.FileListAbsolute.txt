@@ -1,0 +1,7 @@
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\tallerHoyMiercoles\tallerHoyMiercoles\bin\Debug\tallerHoyMiercoles.exe.config
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\tallerHoyMiercoles\tallerHoyMiercoles\bin\Debug\tallerHoyMiercoles.exe
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\tallerHoyMiercoles\tallerHoyMiercoles\bin\Debug\tallerHoyMiercoles.pdb
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\tallerHoyMiercoles\tallerHoyMiercoles\obj\Debug\tallerHoyMiercoles.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\tallerHoyMiercoles\tallerHoyMiercoles\obj\Debug\tallerHoyMiercoles.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\tallerHoyMiercoles\tallerHoyMiercoles\obj\Debug\tallerHoyMiercoles.exe
+C:\Users\Sebastian\Documents\desktop\trimestre4\.net\tallerHoyMiercoles\tallerHoyMiercoles\obj\Debug\tallerHoyMiercoles.pdb
